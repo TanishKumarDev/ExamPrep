@@ -1,2 +1,2 @@
 # ExamPrep
-Examp Prep - AI Power exam helper trained over PYQ papper for dtu 
+Examp Prep - AI Power exam helper trained over PYQ papper.
